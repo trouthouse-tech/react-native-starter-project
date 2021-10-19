@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.gromo">
+  package="com.starter.project">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

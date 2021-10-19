@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.gromo",
+    package = "com.starter.project",
 )
 
 android_resource(
     name = "res",
-    package = "com.gromo",
+    package = "com.starter.project",
     res = "src/main/res",
 )
 

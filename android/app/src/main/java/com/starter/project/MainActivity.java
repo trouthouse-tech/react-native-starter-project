@@ -1,4 +1,4 @@
-package com.gromo;
+package com.starter.project;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "Gromo";
+    return "StarterProject";
   }
 }
