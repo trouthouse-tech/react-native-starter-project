@@ -27,6 +27,8 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+import Icon from 'react-native-vector-icons/Ionicons';
+
 const Section: React.FC<{
   title: string;
 }> = ({children, title}) => {
@@ -74,7 +76,8 @@ const App = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
+            Edit <Text style={styles.highlight}>App.tsx</Text>{' '}
+            <Icon name="ios-person" size={30} color="#4F8EF7" /> to change this
             screen and then come back to see your edits.
           </Section>
           <Section title="See Your Changes">
