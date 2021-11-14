@@ -13,4 +13,13 @@ Follow the steps [here](https://rnfirebase.io/#generating-android-credentials) t
 - Run `yarn pods`
 
 # Troubleshooting (Issues & Fixes you might face)
+- Issues will be added as they come
 
+
+# ChangeLog
+
+14th Novemeber 2021
+------
+* Added Firebase
+* Added Redux
+* Added React Navigation with preliminary config
