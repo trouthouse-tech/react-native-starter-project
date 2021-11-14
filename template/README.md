@@ -1,4 +1,4 @@
-# React Native Starter
+# React Native Starter Project
 
 Pre-configured with Typescript, Firebase, React Native Icons. 
 
@@ -14,6 +14,9 @@ Follow the steps [here](https://rnfirebase.io/#generating-android-credentials) t
 
 # Troubleshooting (Issues & Fixes you might face)
 - Issues will be added as they come
+
+
+
 
 
 # ChangeLog
