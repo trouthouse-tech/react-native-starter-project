@@ -1,6 +1,6 @@
 # React Native Starter Project
 
-Pre-configured with Typescript, Firebase, React Native Icons. 
+Pre-configured with Typescript, Firebase, Redux, React Navigation & React Native Icons. 
 
 
 # Configuration (Getting Started)
